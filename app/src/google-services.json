@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1698357063",
+    "project_id": "women-safety-and-securit-17ada",
+    "storage_bucket": "women-safety-and-securit-17ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1698357063:android:c0d9495db10c2c10043662",
+        "android_client_info": {
+          "package_name": "com.app.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1698357063-56e2njcs2q8rpdocjcoascjg44me6m41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Cgi4NIKyFCIiqv-PObVLf8qQLowg7j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1698357063-56e2njcs2q8rpdocjcoascjg44me6m41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
